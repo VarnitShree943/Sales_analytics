@@ -9,9 +9,9 @@ Jupyter Notebook
 
 **How to download the project**
 
-Download the ZIP file.
-Extract the ZIP File
-Unzip the downloaded file to a directory of your choice.(directory name has to be the same as the project for it to run)
-Install the required libraries in case one does'nt have them already, use this command for downloading the required libraries "pip install pandas matplotlib seaborn jupyter"
-Open jupyter notebook using this command "jupyter notebook"
+Download the ZIP file.< br/>
+Extract the ZIP File< br/>
+Unzip the downloaded file to a directory of your choice.(directory name has to be the same as the project for it to run)< br/>
+Install the required libraries in case one does'nt have them already, use this command for downloading the required libraries "pip install pandas matplotlib seaborn jupyter"< br/>
+Open jupyter notebook using this command "jupyter notebook"< br/>
 
